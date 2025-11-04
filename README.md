@@ -124,8 +124,8 @@ Dataset ini dapat digunakan untuk berbagai tujuan di bidang **Information Retrie
 
 | Nama | NIM | Peran |
 |------|-----|-------|
-| [Nama Anggota 1] | [NIM Anggota 1] | Pengumpulan Data & Pembersihan Metadata |
-| [Nama Anggota 2] | [NIM Anggota 2] | Dokumentasi & Pembuatan Dataset |
+| [Maylani Kusuma Wardhani] | [202210370311123] | Pengumpulan Data & Pembersihan Metadata |
+| [Garin Muhammad Akbar] | [202210370311158] | Dokumentasi & Pembuatan Dataset |
 
 ---
 
